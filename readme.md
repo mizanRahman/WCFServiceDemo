@@ -1,6 +1,6 @@
 ##WCF Web Service Demonstration.
 
-creating and Using WCF Web Service is not hard.
+Creating and Using WCF Web Service is not hard.
 
 
 
@@ -17,4 +17,8 @@ creating and Using WCF Web Service is not hard.
 
 ##Setup
 
-host the wcf service to IIS and run the consumer application.
+Host the wcf service to IIS and run the consumer application.
+
+### Developers
+
+[@khanmizan](https://twitter.com/khanmizan)
