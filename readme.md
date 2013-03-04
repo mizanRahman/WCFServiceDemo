@@ -6,14 +6,14 @@ creating and Using WCF Web Service is not hard.
 
 ##components
 
--WCF Service (IIS hosted)
--Service consumer
--Service proxy
+- WCF Service (IIS hosted)
+- Service consumer
+- Service proxy
 
 ##Requirements
 
--.NET
--IIS
+- .NET
+- IIS
 
 ##Setup
 
